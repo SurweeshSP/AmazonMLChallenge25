@@ -97,4 +97,4 @@ Excited to keep improving and aim for top-tier rankings in future iterations of 
 
 **Competition Period:** October 11-13, 2025  
 **Team Size:** 4 members  
-**Graduation Year:** 2026/2027
+
