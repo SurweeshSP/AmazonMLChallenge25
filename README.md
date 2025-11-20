@@ -5,7 +5,7 @@
 
 ## 🎯 Project Overview
 
-A CLIP-based Optical Character Recognition (OCR) model developed for the Amazon ML Challenge 2025, fine-tuned with Vision Transformer (ViT) architecture to extract and predict product attributes from images [web:2][web:8].
+A CLIP-based Optical Character Recognition (OCR) model developed for the Amazon ML Challenge 2025, fine-tuned with Vision Transformer (ViT) architecture to extract and predict product attributes from images.
 
 ## 🏆 Achievement
 
@@ -17,7 +17,7 @@ A CLIP-based Optical Character Recognition (OCR) model developed for the Amazon 
 
 ### Model Architecture
 
-- **Base Model:** CLIP (Contrastive Language-Image Pre-training) [web:7][web:10]
+- **Base Model:** CLIP (Contrastive Language-Image Pre-training)
 - **Vision Encoder:** Vision Transformer (ViT-B/32)
 - **Task:** OCR and product attribute extraction from images
 - **Fine-tuning:** Custom training pipeline optimized for Amazon's product dataset
@@ -47,7 +47,7 @@ A CLIP-based Optical Character Recognition (OCR) model developed for the Amazon 
 
 ## 📊 Problem Statement
 
-The challenge involved developing a machine learning solution to analyze product images and extract relevant attributes, addressing real-world problems in Amazon's e-commerce ecosystem [web:3][web:8].
+The challenge involved developing a machine learning solution to analyze product images and extract relevant attributes, addressing real-world problems in Amazon's e-commerce ecosystem.
 
 ## 🚀 Implementation
 
@@ -67,7 +67,7 @@ The challenge involved developing a machine learning solution to analyze product
 
 ## 📝 Documentation
 
-Each team submitted a 1-2 page technical document outlining the approach, methodology, and results, along with code implementation [web:6][web:8].
+Each team submitted a 1-2 page technical document outlining the approach, methodology, and results, along with code implementation.
 
 ## 🎓 Learning Outcomes
 
