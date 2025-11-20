@@ -42,8 +42,8 @@ A CLIP-based Optical Character Recognition (OCR) model developed for the Amazon 
 - **Models:** CLIP, Vision Transformer (ViT)
 - **Task:** Optical Character Recognition (OCR)
 - **Dataset:** Amazon ML Challenge 2025 proprietary dataset
-            - **Train Data:** 75000 images of groceries.
-            - **Test Data:** 75000 images of groceries.   
+ **Train Data:** 75000 images of groceries.
+ **Test Data:** 75000 images of groceries.   
 
 ## 📊 Problem Statement
 
